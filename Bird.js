@@ -2,7 +2,7 @@ class Bird extends BaseClass {
   constructor(x,y){
     super(x,y,50,50);
     this.shapeColor="white"
-    this.image = loadImage("sprites/rh.jpg");
+    this.image = loadImage("rh.jpg");
     
   }
 
